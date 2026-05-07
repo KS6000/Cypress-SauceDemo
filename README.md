@@ -1,5 +1,7 @@
 # Cypress SauceDemo Automation Project
 
+[![Cypress Tests](https://github.com/KS6000/Cypress-SauceDemo/actions/workflows/cypress.yml/badge.svg)](https://github.com/KS6000/Cypress-SauceDemo/actions/workflows/cypress.yml)
+
 ## Project Overview
 This project is an end-to-end automation testing framework built using Cypress and JavaScript.
 
