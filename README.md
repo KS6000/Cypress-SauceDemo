@@ -109,4 +109,4 @@ Test execution screenshots and Cypress results will be added here.
 
 ## Author
 K S
-Automation Testing Portfolio Project
+GitHub: https://github.com/KS6000
