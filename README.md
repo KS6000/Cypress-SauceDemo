@@ -22,6 +22,28 @@ This project was created to practice real-world UI automation testing and GitHub
 
 ---
 
+## Automation Coverage
+
+The automated framework currently covers:
+
+- Login functionality
+- Product selection
+- Cart validation
+- End-to-end checkout process
+- UI validation using assertions
+
+---
+
+## Assertions Used
+
+- URL validation
+- Element visibility checks
+- Cart badge validation
+- Product text verification
+- Checkout completion confirmation
+
+---
+
 ## Test Scenarios
 
 ### Login Test
