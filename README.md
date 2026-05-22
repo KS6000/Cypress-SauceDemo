@@ -119,7 +119,7 @@ Cypress-SauceDemo/
 ---
 
 ## Test Evidence
-Test execution screenshots and Cypress results will be added here.
+Test execution screenshots, Cypress results, and CI/CD pipeline evidence will be maintained here.
 
 ---
 
