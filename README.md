@@ -123,7 +123,6 @@ Test execution screenshots and Cypress results will be added here.
 
 ---
 
-## Future Improvements
 ## 🔮 Future Improvements
 
 - Add Page Object Model (POM) structure
