@@ -21,6 +21,7 @@ This project was created to practice real-world UI automation testing and GitHub
 - Node.js
 - Git
 - GitHub
+- GitHub Actions (CI/CD)
 
 ---
 
@@ -33,6 +34,17 @@ The automated framework currently covers:
 - Cart validation
 - End-to-end checkout process
 - UI validation using assertions
+
+---
+
+## 🚀 Framework Features
+
+- End-to-end UI automation using Cypress
+- GitHub Actions CI/CD integration
+- Reusable test structure
+- Assertion-based validation
+- Automated checkout flow testing
+- Scalable framework foundation
 
 ---
 
@@ -84,16 +96,26 @@ npx cypress open
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
-```text
-cypress/
- ├── e2e/
- │    └── SauceDemo.cy.js
- ├── fixtures/
- └── support/
+```bash
+Cypress-SauceDemo/
+│
+├── cypress/
+│   ├── e2e/
+│   │   └── SauceDemo.cy.js
+│   │
+│   ├── fixtures/
+│   └── support/
+│
+├── .github/
+│   └── workflows/
+│       └── cypress.yml
+│
+├── cypress.config.js
+├── package.json
+└── README.md
 ```
-
 ---
 
 ## Test Evidence
@@ -102,10 +124,13 @@ Test execution screenshots and Cypress results will be added here.
 ---
 
 ## Future Improvements
-- Add GitHub Actions CI/CD pipeline
-- Add Cypress screenshots/videos
-- Add more negative test scenarios
+## 🔮 Future Improvements
+
+- Add Page Object Model (POM) structure
 - Add cross-browser execution
+- Add more negative test scenarios
+- Add reusable custom commands
+- Add Cypress screenshots/videos evidence
 
 ---
 
